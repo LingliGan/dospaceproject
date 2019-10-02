@@ -1,0 +1,159 @@
+.contain_CSS{
+	width: 100%;
+	height: 1000px;
+	background-image: url('../image/giphy.gif');
+	background-size: 100% 100%;
+}
+.Title
+{
+	width: 100%;
+	height: 100px;
+	background-color: #006000;
+	line-height: 80px;
+	font-size: 5em;
+	color: yellow;
+	font-weight: middle;
+}
+.demo
+{
+	width: auto;
+	height: 40px;
+	text-align: center;
+	background-color: #8E8E8E;
+	margin-top: 20px;
+	border-radius:10px;
+	line-height: 40px;		/*字体垂直居中*/
+	font-size: 20px;
+	display: inline-block;
+}
+.demo1
+{
+	width: auto;
+	height: 40px;
+	text-align: center;
+	background-color: black;
+	margin-top: 20px;
+	border-radius:10px;
+	line-height: 40px;		/*字体垂直居中*/
+	font-size: 20px;
+	display: inline-block;
+}
+
+.demo:hover
+{
+	background-color: black;
+}
+a{
+	color: black; /*设置超链接字体颜色*/
+}
+a:hover
+{
+	color: white;
+}
+.Para{
+	font-size: 30px;
+	font-weight: normal;
+}
+.Demo
+{
+	width: 100%;
+	height: 80px;
+	/*background-color: white;*/
+	
+	align-items: center;
+
+}
+.Demo1
+{
+	width: 100%;
+	height: 800px;
+	/*background-color: white;*/
+	
+}
+.demo2
+{
+	width: auto;
+	height: 40px;
+	text-align: center;
+	background-color: #8E8E8E;
+	margin-top: 20px;
+	border-radius:10px;
+	line-height: 40px;		/*字体垂直居中*/
+	font-size: 20px;
+	display: inline-block;
+}
+.Title1{
+	font-size: 20px;
+	font-weight: bolder;
+}
+.Title2{
+	font-size: 40px;
+	font-weight: bolder;
+	color: #009100;
+}
+.Text{
+	width: 90%;
+	height: 700px;
+	background: rgba(255,255,255,0.7);
+	margin: 0 auto;
+
+}
+.input_kuang
+{
+	height: 20px;
+	width: 89%;
+}
+.input_Comment{
+	width: 89%;
+	height: 30px;
+}
+.send{
+	/*background-color: white;*/
+	width: 200px;
+	height: 50px;
+	bottom: 0;
+	right: 0;
+	border: 1px solid #8E8E8E;
+	border-radius: 0px;
+	position:absolute;
+	margin-right: 40px;
+}
+.Centere{
+	width: 100%;
+	height: 150px;
+	background: rgba(255,255,255,0.7);
+	display: inline-block;
+}
+.centere1{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	text-align: center;
+	align-items: center;
+	border: 1px solid #000000;
+	margin: 10px;
+	line-height: 150px;
+	font-size: 20px;
+	color: white;
+	display: inline-block;
+
+}
+.centere2{
+	width: 150px;
+	height: 150px;
+	background-color: blue;
+	text-align: center;
+	align-items: center;
+	border: 1px solid #000000;
+	margin: 10px;
+	line-height: 150px;
+	font-size: 20px;
+	color: white;
+	border-radius: 100px;
+	display: inline-block;
+}
+.Send_div{
+	width: 100%;
+	height: 120px;
+	position: relative;
+}
